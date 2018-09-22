@@ -154,11 +154,3 @@ int main() {
    r=month(m,y);
   display(d,r);
 }
-
-   int m,n,y,d,r,s,t,i,j,k,l;
-  printf("enter month and year\n");
-   scanf("%d%d",&m,&y);
-   d=year_no(y,m);
-   r=month(m,y);
-  display(d,r);
-}
